@@ -1,0 +1,14 @@
+.vscode/
+.DS_Store
+.build
+.build/
+extensions
+extensions/
+node_modules/
+node_modules
+out
+out/
+out-build
+out-build/
+out-vscode
+out-vscode/
