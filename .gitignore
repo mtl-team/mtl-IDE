@@ -3,7 +3,7 @@
 .build
 .build/
 extensions
-extensions/
+/extensions/
 node_modules/
 node_modules
 out
