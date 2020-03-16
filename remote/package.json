@@ -10,7 +10,7 @@
     "iconv-lite": "0.4.23",
     "jschardet": "1.6.0",
     "keytar": "4.2.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "native-watchdog": "1.0.0",
     "node-pty": "0.9.0-beta17",
     "onigasm-umd": "^2.2.2",
