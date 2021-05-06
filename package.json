@@ -131,7 +131,7 @@
     "typescript": "3.5.2",
     "typescript-formatter": "7.1.0",
     "uglify-es": "^3.0.18",
-    "underscore": "^1.8.2",
+    "underscore": "^1.12.1",
     "vinyl": "^2.0.0",
     "vinyl-fs": "^3.0.0",
     "vsce": "1.48.0",
